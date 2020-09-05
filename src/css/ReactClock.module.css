@@ -1,0 +1,12 @@
+.clock {
+    display : inline-block;
+}
+.clock_container {
+    margin: 0 auto;
+    border: 5px solid;
+    padding: 5px;
+    width: 20%;
+}
+.inputNumber {
+    width: 30px
+}
